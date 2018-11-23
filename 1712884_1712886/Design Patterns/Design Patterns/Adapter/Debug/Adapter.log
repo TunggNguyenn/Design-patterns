@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\lập trình hướng đối tượng\design patterns\design patterns\design patterns\adapter\main.cpp(41): warning C4715: 'tachHoTen': not all control paths return a value
+  Adapter.vcxproj -> D:\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\Design Patterns\Design Patterns\Design Patterns\Debug\Adapter.exe
+  Adapter.vcxproj -> D:\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG\Design Patterns\Design Patterns\Design Patterns\Debug\Adapter.pdb (Full PDB)
